@@ -53,9 +53,9 @@ ViewController
 | `DiskCache.swift`      | Manages file I/O and cache indexing         |
 
 ## 📸 Screenshots
+![Simulator Screen Recording - iPhone 16 - 2025-07-11 at 15 34 55](https://github.com/user-attachments/assets/b022b590-9d9b-41ad-b8aa-ca471c168a6d)
 
-> _[Add screenshots of the app here if you want]_  
-> Example: home grid, loading states, placeholder image, etc.
+
 
 ## 🧪 How to Run
 
